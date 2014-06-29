@@ -2,7 +2,7 @@ defmodule Hex.Mixfile do
   use Mix.Project
 
   def project do
-    [ app: :hex,
+    [ app: :hex_str,
       version: "0.4.0",
       elixir: ">= 0.12.0",
       deps: deps ]
